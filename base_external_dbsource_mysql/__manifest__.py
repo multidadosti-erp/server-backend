@@ -22,5 +22,5 @@
     'demo': [
         'demo/base_external_dbsource.xml',
     ],
-    'installable': True,
+    'installable': False,
 }
